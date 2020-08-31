@@ -15,7 +15,7 @@ for i in range(n):
 # input of warehouse data__________________
 inventory1 = {}
 warehouse = []
-comp = int(input("enter Warehouse number:"))
+comp = int(input("Enter Warehouse number:"))
 for i in range(comp):
     c = input('Enter Warehouse name:')
     # see_inventory = {'name': c, 'inventory': inventory1}
